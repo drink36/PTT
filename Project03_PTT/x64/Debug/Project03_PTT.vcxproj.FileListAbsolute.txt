@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\程式題目\C++\PTT\Project03_PTT\x64\Debug\Project03_PTT.exe
+C:\Users\user\Desktop\程式題目\C++\PTT\Project03_PTT\x64\Debug\Project03_PTT.pdb

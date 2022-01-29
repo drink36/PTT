@@ -1,0 +1,5 @@
+﻿  BoardManager.cpp
+C:\Users\user\Desktop\程式題目\C++\PTT\Project03_PTT\BoardManager.cpp(140,64): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\程式題目\C++\PTT\Project03_PTT\BoardManager.cpp(256,134): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\程式題目\C++\PTT\Project03_PTT\BoardManager.cpp(104): warning C4715: 'BoardManager::findAccount': not all control paths return a value
+  Project03_PTT.vcxproj -> C:\Users\user\Desktop\程式題目\C++\PTT\Project03_PTT\x64\Debug\Project03_PTT.exe
